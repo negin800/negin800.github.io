@@ -1,0 +1,33 @@
+body {
+  font-family: "Courier New";
+  width: 960px;
+  margin: 100px auto;
+  line-height: 1;
+}
+
+h1 {
+  color: black;
+  margin: 10px;
+  padding: 5px;
+}
+
+h2 {
+  color: gray;
+  margin: 10px;
+  padding: 10px;
+}
+
+li {
+  color: gray;
+  line-height: 1;
+}
+
+li a {
+    color: gray;
+    padding: 10px 10px;
+}
+
+p {
+  color:gray;
+  line-height: 1;
+}
